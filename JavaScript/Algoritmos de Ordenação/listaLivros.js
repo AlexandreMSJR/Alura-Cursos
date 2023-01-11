@@ -1,11 +1,11 @@
 const precosLivros = [
     {
-        titulo: "GO",
-        preco: 40
-    },
-    {
         titulo: "Python",
         preco: 25
+    },
+    {
+        titulo: "GO",
+        preco: 40
     },
     {
         titulo: "PHP",
